@@ -1,0 +1,2 @@
+APP_FILE=wsgi.py
+APP_MODULE=wsgi
